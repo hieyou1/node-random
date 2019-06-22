@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git://github.com/hieyou1/node-random.git"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+    "keywords": ["random", "node-random", ],
+    "author": "Mikey E",
+    "license": "Mozilla"
 }

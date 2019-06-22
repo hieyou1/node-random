@@ -1,5 +1,5 @@
 {
-    "name": "random",
+    "name": "node-random",
     "version": "1.0.0",
     "description": "Different types of random generation.",
     "main": "index.js",
